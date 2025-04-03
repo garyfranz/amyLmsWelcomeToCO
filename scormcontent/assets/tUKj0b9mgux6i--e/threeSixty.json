@@ -1,0 +1,32 @@
+{
+  "version": "3.79.30834.0",
+  "course_id": "6lID2Q4sKO1_course_id",
+  "title": "settle in tabs",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "SimpleTabs"
+    }
+  ],
+  "slides": [
+    {
+      "id": "61eKlw6C3cM",
+      "title": "Five Tabs",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6qC8lyiHmJc",
+      "title": "Five Tabs",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 927,
+    "height": 571
+  },
+  "stage": {
+    "width": 667,
+    "height": 500
+  }
+}
